@@ -6,7 +6,7 @@
 
 ## Install Docker for your OS
 
-### [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+#### [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
 
 ## Clone the Repo
 
@@ -16,11 +16,11 @@ git clone https://github.com/DTan13/EYRC-Task0-docker.git
 
 ## Get your Team ID
 
-### [https://portal.e-yantra.org/profile/home](https://portal.e-yantra.org/profile/home)
+#### [https://portal.e-yantra.org/profile/home](https://portal.e-yantra.org/profile/home)
 
 ## Get your environment.yml file
 
-### Copy content of your environment.yml file to environment.yml in cloned repository
+ Copy content of your environment.yml file to environment.yml in cloned repository
 
 # Using only for Miniconda
 
